@@ -33,7 +33,7 @@ def main():
 
     server.gui.add_markdown("***Bohr_Model_of_Atom***")
 
-    print("Server running on Hugging Face port 7860")
+    print("Server running on http://localhost:7860 (Ctrl+C to stop)")
     
     while True:
         time.sleep(10.0)
