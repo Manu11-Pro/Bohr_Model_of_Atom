@@ -1,0 +1,14 @@
+[project]
+name = "Bohr_Model_of_Atom"
+version = "0.1.0"
+description = "Bohr Model of Atom visualization using Viser"
+authors = [
+    { name = "Manu11-Pro" }
+]
+dependencies = [
+    "viser",
+    "trimesh",
+    "numpy",
+    "pandas",
+    "openpyxl",
+]
