@@ -1,7 +1,7 @@
 import time
 import viser
 import trimesh
-from utils import something
+from utils import _
 
 def main():
     server = viser.ViserServer(host="0.0.0.0", port=7860)
